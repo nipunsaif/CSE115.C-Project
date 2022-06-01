@@ -8,6 +8,5 @@ Features:
 3.	Food Menu
 4. 	Search Bar
 5.	Add Food
-6. 	Cart
-7.	Remove Food
-8.	Invoice paper
+6.	Remove Food
+7.	Invoice paper
