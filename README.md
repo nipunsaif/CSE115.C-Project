@@ -6,7 +6,7 @@ This Project Restaurant Food Ordering System is based on C programming language,
 ### Methodology:
 * Welcome message
 * Menu Driven Program
-* Login/Logout system
+* Login/Logout System
 *  Add food
 *  Display Ordered Food
 *  Delete Food 
